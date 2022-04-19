@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sumik1999
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C++,Python,HTML,CSS,JAVASCRIPT
+- 👀 I’m interested in web development,competetive coding
+- 🌱 I’m good at python, django and restapis
+- 🌱 I'm currently learning javascript and react.js
 - 💞️ I’m looking to collaborate on all of the above
 - 📫 How to reach me email-kiran1999rp@gmail.com
 
